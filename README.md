@@ -1,2 +1,2 @@
 # flappy-bird-pygame
-Creating Flappy Bird with PyGame.
+A clone of Flappy Bird made with pygame.
